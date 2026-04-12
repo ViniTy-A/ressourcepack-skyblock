@@ -1,0 +1,28 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "\uF800": -1,
+        "\uF801": -2,
+        "\uF802": -4,
+        "\uF803": -8,
+        "\uF804": -16,
+        "\uF805": -32,
+        "\uF806": -64,
+        "\uF807": -128,
+        "\uF808": 1,
+        "\uF809": 2,
+        "\uF80A": 4,
+        "\uF80B": 8
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "ghastman:gui/compacteur.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": ["\uE000"]
+    }
+  ]
+}

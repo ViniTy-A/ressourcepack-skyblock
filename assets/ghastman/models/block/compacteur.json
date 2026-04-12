@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "ghastman:item/compacteur_top",
+    "bottom": "ghastman:item/compacteur_bottom",
+    "side": "ghastman:item/compacteur_side"
+  }
+}

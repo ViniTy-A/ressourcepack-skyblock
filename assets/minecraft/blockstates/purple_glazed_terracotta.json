@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "ghastman:block/compacteur" },
+    "facing=south": { "model": "ghastman:block/compacteur", "y": 180 },
+    "facing=east":  { "model": "ghastman:block/compacteur", "y": 90 },
+    "facing=west":  { "model": "ghastman:block/compacteur", "y": 270 }
+  }
+}

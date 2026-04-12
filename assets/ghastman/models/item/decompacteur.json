@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "ghastman:item/decompacteur_top",
+    "down": "ghastman:item/decompacteur_bottom",
+    "north": "ghastman:item/decompacteur_side_1",
+    "south": "ghastman:item/decompacteur_side_2",
+    "east": "ghastman:item/decompacteur_side_3",
+    "west": "ghastman:item/decompacteur_side_4",
+    "particle": "ghastman:item/decompacteur_side_1"
+  }
+}
